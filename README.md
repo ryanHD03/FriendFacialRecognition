@@ -8,13 +8,15 @@ The Friend Recognition Bot is a Discord bot that uses convolutional neural netwo
    git clone https://github.com/username/friend-facial-recognition.git
 
 2. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 
 ## Usage
 
 1. Start the Discord bot:
+   ```bash
    python main.py
-2. Use the bot in Doscrd by sending images and triggering the ".save" command to initiate the recognition process.
+3. Use the bot in Doscrd by sending images and triggering the ".save" command to initiate the recognition process.
 
 ## Data Preparation
 The "image_manipulation.py" script includes functions for resizing images and performing data augmentation. Ensure that image directories are correctly configured before running these functions.
