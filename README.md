@@ -1,4 +1,4 @@
-### Friend Facial Recognition
+# Friend Facial Recognition
 The Friend Recognition Bot is a Discord bot that uses convolutional neural networks (CNNs) to recognize friends in images. It includes functionalities for image resizing, data augmentation, model training, and real-time image prediction within Discord.
 
 ## Installation
