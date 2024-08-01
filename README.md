@@ -5,7 +5,7 @@ The Friend Recognition Bot is a Discord bot that uses convolutional neural netwo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/friend-facial-recognition.git
+   git clone https://github.com/ryanHD03/FriendFacialRecognition.git
 
 2. Install dependencies:
    ```bash
